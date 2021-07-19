@@ -1,0 +1,21 @@
+h2 {
+    margin: 50px auto 0 auto;
+    color: #DEEEEA;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #185ADB;
+}
+
+hr {
+    background-color: #66BFBF;
+    height: 20px;
+}
+
+p {
+    color:#DEEEEA;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
+
+body {
+    background-color: #185ADB;
+}
